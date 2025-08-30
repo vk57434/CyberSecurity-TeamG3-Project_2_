@@ -43,3 +43,6 @@ Cross-Site Scripting (XSS) is a common web security vulnerability that allows at
 - Reflected (Low):  
   ```html
   <h1>Vivek</h1>
+
+# 🙌 Author
+  Vivek Kumar
